@@ -1,2 +1,4 @@
 # Multibody-Dynamics
-Final Project for MAE 272. Simulation of a dynamics rowing machine in Python using Numpy and Jupyter. 
+Projects for MAE 272. 
+
+Including simulation of a dynamic rowing machine in Python using Numpy and Jupyter. 
